@@ -1,4 +1,4 @@
-namespace Pokedex.Models
+namespace Pokedex.Models;
 {
     public class tipo
     {
